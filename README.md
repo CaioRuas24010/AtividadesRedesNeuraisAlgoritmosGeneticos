@@ -26,7 +26,6 @@ Essa estrutura visa proporcionar clareza, organização e facilidade de acesso a
 
 * Para cada atividade, os detalhes da implementação, os resultados e as conclusões podem ser encontrados nos arquivos correspondentes dentro de cada diretório.
 * Certifique-se de ter os requisitos necessários (por exemplo, bibliotecas Python) instalados para executar os códigos.
-* [Instruções adicionais, se houver].
 
 ##   Agradecimentos
 
