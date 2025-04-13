@@ -18,7 +18,7 @@ Este repositório está estruturado para facilitar a navegação e a compreensã
    
 * **`feras_formidaveis/` (diretório):** Este diretório armazena as atividades designadas como "Feras Formidáveis". Seguindo o mesmo princípio de organização dos "Monstrinhos", cada atividade em dupla ou individual terá seu próprio subdiretório dentro de `feras_formidaveis/`.
    
-* **`utils/` (diretório opcional):** Este diretório é reservado para armazenar arquivos ou scripts auxiliares que são utilizados em mais de uma atividade.
+* **`utils/` (diretório auxiliar):** Este diretório é reservado para armazenar arquivos ou scripts auxiliares que são utilizados em mais de uma atividade.
 
 Essa estrutura visa proporcionar clareza, organização e facilidade de acesso aos arquivos de cada atividade, tanto para consulta quanto para avaliação.
 
@@ -29,4 +29,4 @@ Essa estrutura visa proporcionar clareza, organização e facilidade de acesso a
 
 ##   Agradecimentos
 
-* Agradeço à Deus. Agradçeo à Ilum Escola de Ciência e ao professor Daniel R. Cassar por proporcionarem um ambiente de aprendizado desafiador e estimulante. 
+* Agradeço à Deus. Agradçeo à Ilum Escola de Ciência e ao professor Daniel R. Cassar por proporcionarem um ambiente de aprendizado estimulante. 
